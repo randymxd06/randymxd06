@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps (Jenkins, Docker, Kubernetes, SonarQube, AWS)**
 
-- 💬 Ask me about **Vue.js, React.js, Nest.js, Laravel, Docker**
+- 💬 Ask me about **Vue.js, React.js, Nest.js, Laravel, Docker, TypeScript**
 
 - 📫 How to reach me **randym0624@gmail.com**
 
