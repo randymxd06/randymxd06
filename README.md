@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **SanelApp**
 
-- 🌱 I’m currently learning **DevOps (Jenkins, Docker, Kubernetes, SonarQube, AWS)**
+- 🌱 I’m currently learning **Hexagonal Architecture**
 
 - 💬 Ask me about **Vue.js, React.js, Nest.js, Laravel, Docker, TypeScript**
 
 - 📫 How to reach me **randym0624@gmail.com**
-
-- 📄 Know about my experiences [When I joined EDESSIS S.R.L as a web developer, I started as a backend developer, working with tools such as Laravel, PostgreSQL, Slack, Git, Gitlab MySQL, Postman, among others, contributing to the development of robust and scalable solutions. Then I moved into frontend development, using Vue.js to create dynamic and engaging user experiences, currently I am working as a FullStack developer using technologies with Nest.js, Vue 3 with Pinia, TypeScript and Composition Api, I am also using technologies like Asana, Firebase, Docker, MongoDB among others.](When I joined EDESSIS S.R.L as a web developer, I started as a backend developer, working with tools such as Laravel, PostgreSQL, Slack, Git, Gitlab MySQL, Postman, among others, contributing to the development of robust and scalable solutions. Then I moved into frontend development, using Vue.js to create dynamic and engaging user experiences, currently I am working as a FullStack developer using technologies with Nest.js, Vue 3 with Pinia, TypeScript and Composition Api, I am also using technologies like Asana, Firebase, Docker, MongoDB among others.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
