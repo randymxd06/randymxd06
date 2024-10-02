@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [My Portfolio](https://randymxd06.netlify.app)
+- 🔭 I’m currently working on [Easy Email](https://github.com/randymxd06/Easy_Email)
 
 - 🌱 I’m currently learning **Hexagonal Architecture**
 
