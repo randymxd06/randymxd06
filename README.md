@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Easy Email](https://github.com/randymxd06/Easy_Email)
 
-- 🌱 I’m currently learning **Hexagonal Architecture**
+- 🌱 I’m currently learning **Clean Architecture**
 
 - 👨‍💻 All of my projects are available at [https://randymxd06.netlify.app](https://randymxd06.netlify.app)
 
